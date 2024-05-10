@@ -1,0 +1,12 @@
+[workspace]
+
+members = [
+    "src/fundamentals/advanced_match"
+]
+
+[package]
+name = "RustOdyssey"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
