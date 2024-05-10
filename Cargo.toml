@@ -3,7 +3,7 @@
 members = [
     "src/fundamentals/advanced_match",
     "src/fundamentals/option"
-]
+, "src/fundamentals/result"]
 
 [package]
 name = "RustOdyssey"
