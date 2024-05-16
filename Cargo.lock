@@ -11,6 +11,10 @@ name = "advanced_match"
 version = "0.1.0"
 
 [[package]]
+name = "hashmap"
+version = "0.1.0"
+
+[[package]]
 name = "option"
 version = "0.1.0"
 
