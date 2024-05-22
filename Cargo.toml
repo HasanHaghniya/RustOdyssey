@@ -1,7 +1,8 @@
 [workspace]
 
 members = [
-    "src/fundamentals/advanced_match"
+    "src/fundamentals/advanced_match",
+    "src/fundamentals/option"
 ]
 
 [package]
