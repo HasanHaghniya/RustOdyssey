@@ -1,9 +1,10 @@
 [workspace]
 
 members = [
-    "src/fundamentals/advanced_match",
-    "src/fundamentals/option"
-, "src/fundamentals/result"]
+    "src/fundamentals/advanced_match", "src/fundamentals/hashmap",
+    "src/fundamentals/option",
+    "src/fundamentals/result"
+]
 
 [package]
 name = "RustOdyssey"
