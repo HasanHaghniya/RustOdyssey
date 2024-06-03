@@ -1,7 +1,9 @@
 [workspace]
 
 members = [
-    "src/fundamentals/advanced_match", "src/fundamentals/hashmap",
+    "src/fundamentals/advanced_match",
+    "src/fundamentals/hashmap",
+    "src/fundamentals/map-combinator",
     "src/fundamentals/option",
     "src/fundamentals/result"
 ]
