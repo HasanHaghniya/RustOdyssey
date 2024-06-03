@@ -5,6 +5,7 @@ members = [
     "src/fundamentals/hashmap",
     "src/fundamentals/map-combinator",
     "src/fundamentals/option",
+    "src/fundamentals/option-combinator",
     "src/fundamentals/result"
 ]
 
