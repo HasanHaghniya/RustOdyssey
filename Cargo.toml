@@ -9,6 +9,7 @@ members = [
     "src/fundamentals/option-combinator",
     "src/fundamentals/result",
     "src/fundamentals/testing",
+    "src/fundamentals/traits",
     "src/fundamentals/user-input"
 ]
 
