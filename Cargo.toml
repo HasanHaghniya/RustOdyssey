@@ -2,6 +2,7 @@
 
 members = [
     "src/fundamentals/advanced_match",
+    "src/fundamentals/generic-functions",
     "src/fundamentals/hashmap",
     "src/fundamentals/iterator",
     "src/fundamentals/map-combinator",
